@@ -1,0 +1,22 @@
+{
+  "name": "hello-coqui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelmenges/hello-coqui.git"
+  },
+  "author": "Raphael Menges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphaelmenges/hello-coqui/issues"
+  },
+  "homepage": "https://github.com/raphaelmenges/hello-coqui#readme",
+  "dependencies": {
+    "stt": "^1.3.0"
+  }
+}
